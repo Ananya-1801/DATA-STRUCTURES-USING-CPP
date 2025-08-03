@@ -5,6 +5,7 @@ Collection of programs on Data Structures and Algorithms using C++.
 ### Table of Contents:
 - **array as parameter.cpp** – Generates an array of n natural numbers through a user defined function and returns the array.
 - **array adt.cpp** - a menu driven program featuring the basic operations that can be performed over array abstract data type.
+- **array_binarysearch.cpp** - implements binary search over an array abstract data-type.
 
 
 ### Purpose
